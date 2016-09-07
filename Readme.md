@@ -1,14 +1,15 @@
 # Homework User Story
 
 ## User Story
-As an instructor, I want to you to implement OAuth authentication from the web
+As an instructor, I want to you to implement OAuth authentication for the web
 site so you can learn some security concepts.
 
 ## Acceptance Criteria
-* I should receive a single email per team
-* The email should contain the name of the individuals on your team
-* The email should contain a link to your Github repository
-* The email should contain a link to your running application
+* Homework should be submitted via Blackboard and one submission per team
+* Please submit a document that :
+ * Contains the name of the individuals on your team
+ * Contains a link to your Github repository
+ * Contains a link to your running application
 * I should have the option to log in using Github as an OAuth provider
 * I should see the image gallery after entering my credentials
 
@@ -33,3 +34,14 @@ https://developer.github.com/v3/oauth/
 You can register the image gallery application using the "OAuth applications" section under "Personal Settings".
 
 https://github.com/settings/applications
+
+# Preparing for Next Class
+Download VirtualBox -
+
+https://www.virtualbox.org/wiki/Downloads
+
+Download Ubuntu 16.04.1 ISO -
+
+http://www.ubuntu.com/download/desktop
+
+We will create an Ubuntu VM as a class activity.
